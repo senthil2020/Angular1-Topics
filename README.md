@@ -14,4 +14,5 @@ Angular1 Topics
 11. ng-show,ng-hide, ng-if
 12. ng-include,
 13. Module Loader,
-14. AMD
+14. AMD (require.js)
+Reference URL : http://requirejs.org/docs/whyamd.html
