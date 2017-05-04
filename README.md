@@ -5,15 +5,16 @@ Angular1 Topics
 2. MVC,
 3. Two way data binding,
 4. $scope, $rootscope,
-5. providers(service, factory, value),
-6. dependency injection ($inject),
-7. routing (ng-view),
-8. web service (or) web api($http),
-9. promise (promise = $q((resolve, reject))),
-10. custom directives (element names (E), attributes (A), class names (C), and comments (M)),
-11. ng-show,ng-hide, ng-if
-12. ng-include,
-13. Module Loader,
-14. AMD (require.js)
+5. module, controller,
+6. providers(service, factory, value),
+7. dependency injection ($inject),
+8. routing (ng-view),
+9. web service (or) web api($http),
+10. promise (promise = $q((resolve, reject))),
+11. custom directives (element names (E), attributes (A), class names (C), and comments (M)),
+12. ng-show,ng-hide, ng-if
+13. ng-include,
+14. Module Loader,
+15. AMD (require.js)
 
 Reference URL : http://requirejs.org/docs/whyamd.html
