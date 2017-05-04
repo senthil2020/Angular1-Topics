@@ -5,12 +5,13 @@ Angular1 Topics
 2. MVC,
 3. Two way data binding,
 4. $scope, $rootscope,
-5. providers(service, factory, values),
+5. providers(service, factory, value),
 6. dependency injection ($inject),
 7. routing (ng-view),
-8. promise, reject,
-9. custom directives,
-10. ng-show,ng-hide, ng-if
-11. ng-include,
-12. Module Loader,
-13. AMD
+8. web service (or) web api($http),
+9. promise, reject,
+10. custom directives,
+11. ng-show,ng-hide, ng-if
+12. ng-include,
+13. Module Loader,
+14. AMD
