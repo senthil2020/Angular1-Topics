@@ -2,21 +2,26 @@
 Angular1 Topics
 
 1. SPA (Single Page Application), 
-2. MVC,
+2. MVC (Model–view–controller),
 3. Two way data binding,
 4. $scope, $rootscope,
-5. module, controller,
-6. providers(service, factory, value),
-7. dependency injection ($inject),
-8. routing (ng-view),
-9. web service (or) web api($http),
-10. promise (promise = $q((resolve, reject))),
-11. custom directives (element names (E), attributes (A), class names (C), and comments (M)),
-12. ng-show,ng-hide, ng-if
-13. ng-include,
-14. $watch,
-15. Module Loader,
-16. AMD (require.js)
+5. module, controller, model,
+6. Module Loader, AMD (require.js),
+7. providers(service, factory, value),
+8. dependency injection ($inject),
+9. routing (ng-view),
+10. web service (or) web api($http),
+11. promise (promise = $q((resolve, reject))),
+12. custom directives (element names (E), attributes (A), class names (C), and comments (M)),
+13. HTML Compiler,
+14. Providers,
+15. Decorators,
+16. Bootstrap,
+17. Unit Testing,
+18. E2E Testing,
+19. ng-show,ng-hide, ng-if
+20. ng-include,
+21. $watch
 
 Useful Links :
 
