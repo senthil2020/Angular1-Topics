@@ -19,9 +19,11 @@ Angular1 Topics
 16. AMD (require.js)
 
 Useful Links :
+
 Angular1 Learning :
 1. https://angularjs.org/
 2. https://docs.angularjs.org/tutorial
 3. https://www.w3schools.com/angular/default.asp
+
 Style Guide : https://github.com/johnpapa/angular-styleguide/tree/master/a1
 AMD & Module Loader : http://requirejs.org/docs/whyamd.html
