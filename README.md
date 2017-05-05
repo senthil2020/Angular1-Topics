@@ -1,7 +1,7 @@
 # Angular1-Topics
 Angular1 Topics
 
-1. SPA, 
+1. SPA (Single Page Application), 
 2. MVC,
 3. Two way data binding,
 4. $scope, $rootscope,
@@ -26,4 +26,5 @@ Angular1 Learning :
 3. https://www.w3schools.com/angular/default.asp
 
 Style Guide : https://github.com/johnpapa/angular-styleguide/tree/master/a1
+
 AMD & Module Loader : http://requirejs.org/docs/whyamd.html
