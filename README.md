@@ -29,31 +29,7 @@ Angular1 Learning :
 1. https://angularjs.org/
 2. https://docs.angularjs.org/tutorial
 3. https://www.w3schools.com/angular/default.asp
-4. http://learnangular2.com/lifecycle/
 
 Style Guide : https://github.com/johnpapa/angular-styleguide/tree/master/a1
 
 AMD & Module Loader : http://requirejs.org/docs/whyamd.html
-
-Auto Complete :
-https://github.com/leonardohjines/angular2-autocomplete/
- 
-Tag Cloud : (Auto Complete)
-https://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/
- 
-Data Binding :
-http://www.angulartypescript.com/angular-2-data-binding/
- 
-Lazy Loading :
-https://github.com/daviddt/angular2-lazy-load-example/tree/master/src/app
-https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack-d25fe71c29c1#.qpkaoysto
- 
-AOT : (Ahead of Time)
-http://stackoverflow.com/questions/36210578/gulp-4-typescript-compilation-errors 
-
-Blogs :
-http://blog.mgechev.com/about/
-https://www.bennadel.com/blog/3088-native-key-combination-event-binding-support-in-angular-2-beta-17.htm
-
-Zones :
-https://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/
