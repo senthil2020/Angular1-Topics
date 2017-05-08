@@ -33,3 +33,21 @@ Angular1 Learning :
 Style Guide : https://github.com/johnpapa/angular-styleguide/tree/master/a1
 
 AMD & Module Loader : http://requirejs.org/docs/whyamd.html
+
+Auto Complete :
+https://github.com/leonardohjines/angular2-autocomplete/
+ 
+Tag Cloud : (Auto Complete)
+https://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/
+ 
+Data Binding :
+http://www.angulartypescript.com/angular-2-data-binding/
+ 
+Lazy Loading :
+https://github.com/daviddt/angular2-lazy-load-example/tree/master/src/app
+https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack-d25fe71c29c1#.qpkaoysto
+ 
+AOT : (Ahead of Time)
+ 
+http://stackoverflow.com/questions/36210578/gulp-4-typescript-compilation-errors 
+
