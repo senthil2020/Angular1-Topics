@@ -8,20 +8,21 @@ Angular1 Topics
 5. module, controller, model,
 6. Module Loader, AMD (require.js),
 7. providers(service, factory, value),
-8. dependency injection ($inject),
-9. routing (ng-view),
-10. web service (or) web api($http),
-11. promise (promise = $q((resolve, reject))),
-12. custom directives (element names (E), attributes (A), class names (C), and comments (M)),
-13. HTML Compiler,
-14. Providers,
-15. Decorators,
-16. Bootstrap,
-17. Unit Testing,
-18. E2E Testing,
-19. ng-show,ng-hide, ng-if
-20. ng-include,
-21. $watch
+8. config, run,
+9. dependency injection ($inject),
+10. routing (ng-view, $routeProvider, $locationChangeStatus),
+11. web service (or) web api($http),
+12. promise (promise = $q((resolve, reject))),
+13. custom directives (element names (E), attributes (A), class names (C), and comments (M)),
+14. HTML Compiler,
+15. Providers,
+16. Decorators,
+17. Bootstrap,
+18. Unit Testing,
+19. E2E Testing,
+20. ng-show,ng-hide, ng-if
+21. ng-include,
+22. $watch
 
 Useful Links :
 
