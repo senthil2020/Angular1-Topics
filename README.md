@@ -4,7 +4,7 @@ Angular1 Topics
 1. SPA (Single Page Application), 
 2. MVC (Model–view–controller),
 3. Two way data binding,
-4. Angular Digest Cycle,
+4. Angular Digest Cycle($watch, $watchCollection, $digest, $apply),
 5. $scope, $rootscope,
 6. module, controller, model,
 7. Module Loader, AMD (require.js),
@@ -22,8 +22,7 @@ Angular1 Topics
 19. Unit Testing,
 20. E2E Testing,
 21. ng-show,ng-hide, ng-if
-22. ng-include,
-23. $watch
+22. ng-include
 
 Useful Links :
 
