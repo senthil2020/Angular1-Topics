@@ -30,11 +30,12 @@ Angular1 Learning :
 1. https://angularjs.org/
 2. https://docs.angularjs.org/tutorial
 3. https://www.w3schools.com/angular/default.asp
-4. http://blog.mgechev.com/about/
-5. https://www.bennadel.com/
-6. http://tutorials.jenkov.com/angularjs/index.html
-7. https://jvandemo.com
-8. http://jasonwatmore.com
+4. https://www.tutorialspoint.com/angularjs/
+5. http://blog.mgechev.com/about/
+6. https://www.bennadel.com/
+7. http://tutorials.jenkov.com/angularjs/index.html
+8. https://jvandemo.com
+9. http://jasonwatmore.com
 
 Style Guide : https://github.com/johnpapa/angular-styleguide/tree/master/a1
 
