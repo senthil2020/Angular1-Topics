@@ -41,7 +41,7 @@ Style Guide : https://github.com/johnpapa/angular-styleguide/tree/master/a1
 
 AMD & Module Loader : http://requirejs.org/docs/whyamd.html
 
-Cross Browser Issue : Windows - Run - chrome.exe --allow-file-access-from-files --disable-web-security
+Cross Browser Issue : Windows -> Run -> chrome.exe --allow-file-access-from-files --disable-web-security
 
 Angular Commands :
 1. Build Application - gulp buildPlugin
