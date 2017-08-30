@@ -1,28 +1,29 @@
 # Angular1-Topics
 Angular1 Topics
 
-1. SPA (Single Page Application), 
-2. MVC (Model–view–controller),
-3. Two way data binding,
-4. Angular Digest Cycle($watch, $watchCollection, $digest, $apply),
-5. config, run,
-6. $scope, $rootscope,
-7. module, controller, model,
-8. Module Loader, AMD (require.js),
-9. Providers(service, factory, value),
-10. Dependency Injection ($inject),
-11. Routing (ng-view, $routeProvider, $locationChangeStatus),
-12. Web Service (or) Web API($http),
+1. Installation and Environment Setup,
+2. SPA (Single Page Application), 
+3. MVC Architecture(Model–view–controller),
+4. Bootstrap(Manual(angular.bootstrap) and Automatic),
+5. Data Binding(Two way data binding),
+6. Angular Digest Cycle($watch, $watchCollection, $digest, $apply),
+7. config, run,
+8. $scope, $rootscope,
+9. module, controller, model,
+10. Module Loader, AMD (require.js - Dynamic Module (or) Virtual Directory),
+11. Routing (ng-view, $routeProvider, when, $locationChangeStatus),
+12. Web API($http),
 13. Promise (promise = $q((resolve, reject))),
-14. Custom Directives (element names (E), attributes (A), class names (C), and comments (M)),
-15. HTML Compiler,
-16. Decorators,
-17. Bootstrap,
-18. Unit Testing,
-19. E2E Testing,
-20. ng-show,ng-hide, ng-if
-21. ng-include,
-22. Broadcast, on, emit
+14. Inbuilt Directives(Example : ng-cli, ng-app, ng-show, ng-hide, ng-if, ng-include, ng-bind vs ng-model etc),
+15. Custom Directives (element names (E), attributes (A), class names (C), comments (M) and isolated scopes),
+16. Providers(service, factory, value),
+17. Dependency Injection ($inject),
+18. HTML Compiler, Link,
+19. Decorators,
+20. Broadcast, on, emit,
+21. Performance,
+22. Unit Testing(karma, jasmine),
+23. E2E Testing(protractor)
 
 Useful Links :
 
