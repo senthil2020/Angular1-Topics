@@ -23,7 +23,7 @@ Angular1 Topics
 20. Broadcast, on, emit,
 21. Performance,
 22. Unit Testing(karma, jasmine),
-23. E2E Testing(protractor)
+23. E2E Testing(selenium protractor)
 
 Useful Links :
 
