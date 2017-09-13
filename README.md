@@ -44,5 +44,8 @@ AMD & Module Loader : http://requirejs.org/docs/whyamd.html
 
 Cross Browser Issue : Windows -> Run -> chrome.exe --allow-file-access-from-files --disable-web-security
 
+Angular Directives :
+ 1. Angular Vertilize(https://github.com/Sixthdim/angular-vertilize/blob/master/README.md) - dynamically makes a group of elements the same height.
+   
 Angular Commands :
 1. Build Application - gulp buildPlugin
