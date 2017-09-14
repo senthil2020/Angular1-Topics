@@ -37,6 +37,7 @@ Angular1 Learning :
 7. http://tutorials.jenkov.com/angularjs/index.html
 8. https://jvandemo.com
 9. http://jasonwatmore.com
+10. http://www.binaryintellect.net/articles/5d8be0b6-e294-457e-82b0-ba7cc10cae0e.aspx
 
 Style Guide : https://github.com/johnpapa/angular-styleguide/tree/master/a1
 
