@@ -1,29 +1,31 @@
 # Angular1-Topics
 Angular1 Topics
 
-1. Installation and Environment Setup,
-2. SPA (Single Page Application), 
-3. MVC Architecture(Model–view–controller),
-4. Bootstrap(Manual(angular.bootstrap) and Automatic),
-5. Data Binding(Two way data binding),
-6. Angular Digest Cycle($watch, $watchCollection, $digest, $apply),
-7. config, run,
-8. $scope, $rootscope,
-9. module, controller, model,
-10. Module Loader, AMD (require.js - Dynamic Module (or) Virtual Directory),
-11. Routing (ng-view, $routeProvider, when, $locationChangeStatus),
-12. Web API($http),
-13. Promise (promise = $q((resolve, reject))),
-14. Inbuilt Directives(Example : ng-cli, ng-app, ng-show, ng-hide, ng-if, ng-include, ng-bind vs ng-model etc),
-15. Custom Directives (element names (E), attributes (A), class names (C), comments (M) and isolated scopes),
-16. Providers(service, factory, value),
-17. Dependency Injection ($inject),
-18. HTML Compiler, Link,
-19. Decorators,
-20. Broadcast, on, emit,
-21. Performance,
-22. Unit Testing(karma, jasmine),
-23. E2E Testing(selenium protractor)
+1. Installation,
+2. Environment Setup,
+3. SPA (Single Page Application), 
+4. MVC Architecture(Model–view–controller),
+5. Bootstrap(Manual(angular.bootstrap) and Automatic),
+6. Data Binding(Two way data binding),
+7. Angular Digest Cycle($watch, $watchCollection, $digest, $apply),
+8. config, run($locationChangeStatus),
+9. scope($scope, $rootscope),
+10. module, controller, model,
+11. Module Loader, AMD (require.js - Dynamic Module (or) Virtual Directory),
+12. Routing (ng-view, $routeProvider, when, $locationChangeStatus),
+13. Web API($http),
+14. Promise (promise = $q((resolve, reject))),
+15. Inbuilt Directives(Example : ng-cli, ng-app, ng-show, ng-hide, ng-if, ng-include, ng-bind vs ng-model etc),
+16. Custom Directives (element names (E), attributes (A), class names (C), comments (M))
+17. Isolated scopes, Link,
+18. Providers(service, factory, value),
+19. Dependency Injection ($inject),
+20. HTML Compiler vs Link,
+21. Decorators,
+22. Broadcast(parent to child), on, emit(child to parent),
+23. Performance,
+24. Unit Testing(karma, jasmine),
+25. E2E Testing(selenium protractor)
 
 Useful Links :
 
@@ -40,6 +42,8 @@ Angular1 Learning :
 10. http://www.binaryintellect.net/articles/5d8be0b6-e294-457e-82b0-ba7cc10cae0e.aspx
 
 Style Guide : https://github.com/johnpapa/angular-styleguide/tree/master/a1
+
+Themes : https://github.com/pikock/bootstrap-magic
 
 AMD & Module Loader : http://requirejs.org/docs/whyamd.html
 
