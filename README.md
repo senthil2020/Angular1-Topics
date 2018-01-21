@@ -21,7 +21,7 @@ Angular1 Topics
 18. Providers(service, factory, value),
 19. Dependency Injection ($inject),
 20. Compile vs Link,
-21. HTML into Angular(htmlsafe),
+21. HTML Template into Angular(htmlsafe),
 22. Decorators,
 23. Broadcast(parent to child), on, emit(child to parent),
 24. Without ng-click,(element.on('.classname',function name)),(element.off('.classname',function name))
