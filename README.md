@@ -7,10 +7,10 @@ Angular1 Topics
 4. MVC Architecture(Model–view–controller),
 5. Bootstrap(Manual(angular.bootstrap) and Automatic),
 6. Data Binding(Two way data binding),
-7. Angular Digest Cycle($watch, $watchCollection, $digest, $apply),
+7. Angular Digest Cycle($watch, $watchCollection, $watchgroup, $digest, $apply, $evalAsync),
 8. config, run($locationChangeStatus),
 9. scope($scope, $rootscope),
-10. module, controller, model,
+10. module, controller, model,(ng-bind vs ng-model)
 11. Module Loader, AMD (require.js - Dynamic Module (or) Virtual Directory),
 12. Routing (ng-view, $routeProvider, when, $locationChangeStatus),
 13. Web API($http),
@@ -20,12 +20,14 @@ Angular1 Topics
 17. Isolated scopes, Link,
 18. Providers(service, factory, value),
 19. Dependency Injection ($inject),
-20. HTML Compiler vs Link,
-21. Decorators,
-22. Broadcast(parent to child), on, emit(child to parent),
-23. Performance,
-24. Unit Testing(karma, jasmine),
-25. E2E Testing(selenium protractor)
+20. Compile vs Link,
+21. HTML into Angular(htmlsafe),
+22. Decorators,
+23. Broadcast(parent to child), on, emit(child to parent),
+24. Without ng-click,(element.on('.classname',function name)),(element.off('.classname',function name))
+25. Performance,
+26. Unit Testing(karma, jasmine),
+27. E2E Testing(selenium protractor)
 
 Useful Links :
 
